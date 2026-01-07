@@ -45,9 +45,9 @@ jobs:
     # Run a reusable action to checkout your repo for use later in the workflow
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          submodules: recursive
-          fetch-depth: 0
+#        with:
+#          submodules: recursive
+#          fetch-depth: 0
     # Run a resuable action that configures GitHub Pages
       - name: Setup Pages
         id: pages
