@@ -1,0 +1,4 @@
+baseURL = "http://chaos.local/"
+languageCode = "en-us"
+title = "Ars Scientiae, Ars Magickae"
+theme = 'meego'

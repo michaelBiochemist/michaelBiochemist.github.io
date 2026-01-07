@@ -1,0 +1,9 @@
+{{ $section := .Get "section" }}
+{{ $limit := or (.Get "limit") 10 }}
+
+<ul>
+{{ range first $limit (where .Site.RegularPages "Section"  $section ) }}
+	<li><time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "2006 Jan 02" }}</time> &ndash; <a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+{{ end }}
+</ul>
+</article>

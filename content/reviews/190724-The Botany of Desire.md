@@ -1,0 +1,33 @@
+---
+Title: "The Botany of Desire"
+date: 2019-07-24
+draft: false
+tags: ['book reviews','10 things lists']
+---
+
+{{<img link="https://b-ok.xyz/book/955306/57ce29" src="/botany_of_desire_cover.jpg">}}
+
+Normally we think of man is the dominator, the domesticator of plants and animals and by extension the conqueror of nature. Thanks to tools like selective breeding, we have made nature do our bidding. In "The Botany of Desire" Michael Pollen flips the script and talks about the plants that have conquered us, that by discovering and appealing to our various desires, a few plants have turned us into their protectors and providers. We are the ones who make sure they pollinate, who clear the land for them and guard them from insects. In doing so, those plants become the most successful species of their kingdom. This book looks at human desires from the perspective of four plants: The Apple, The Tulip, Marijuana, and the humble Potato. Here are ten things I learned from this book.
+
+1) Polyploidy in apples means apple children are often nothing like their parents. 
+	In fact, most apples taste terrible. They are often extraordinarily sour or bitter or both. It is a rare apple tree that does produce delicious fruit, and even the immediate offspring of the two best trees have a good chance of being duds. 
+2) Apples were almost entirely used for cider until Prohibition-Era PR ("An apple a day keeps the doctor away") moved the attention on apples towards food. 
+	If you went back 150 years and asked for "hard cider", people would be opt to look at you funny. All cider was hard cider until the era of modern refridgeration made it possible to store the (non-acoholic) sweet apple nectar for any reasonable length of time.
+3) Johnny Appleseed was both a barefoot christian and a dionysian figure.
+	John Chapman, also known as Johnny Appleseed travelled the countryside buying up land before it gets developed and planting a ton of apple trees on it. It was a lucrative endeavor but entailed him constantly travelling away from civilization. Evidently he preferred this, as there are stories of him sleeping in hollowed out tree stumps and keeping a wolf as a pet. Often when travelling, he would appear at somenone's doorstep and give them news of the outside world and plant apple seeds for them in exchange for food and a warmer place to sleep than the log.  
+4) The best way to maintain desired apples or marijuana plants is by taking cuttings and growing colonies of clones of apple / marijuana plants. In the case of apples, you can also cut off branches from a successful tree and graft them onto another tree.
+
+5) We have no idea in the modern age what sweetness meant 200 years ago. 
+	We are surrounded by sugar. We can go to the store and buy a box of cookies for a couple dollars. Even minimum-wage workers in the U.S. can buy a cake for a couple-hours wages, and can bake several themselves for the same price. To people who generally had the scarcest of sugar available, the experience of sweetness might be more like ecstacy. Likewise, we have no idea what a colorful flower meant to somenone in 17th century Holland. We, who are surrounded by color, and can easily have shirts, prints and paints in every color and combination we so wished. The clothing available to most people then was bland in color. The houses bland as well, so it might make sense for a flower of striking beauty (such as the semper augustus tulip, which traded for 10,000 gilders in it's time) to leave a far greater impression than it might on us. I am of course talking about the tulip mania. But maybe it wasn't so manic. Maybe you just haven't seen a good tulip!
+6) The Dutch tulip industry outlasted the tulip mania by far.
+	One thing that's not uncommon in economics is when a new field is opened, and people are just discovering how valuable it is, it can trigger a boom. A flood of people start pouring manpower and capital to produce more of this new great thing (in this case tulips), but people are only guessing about the tulip's future value, so eventually the market overestimates. After a bit when people realize that no one is interested in buying tulips on the grounds that there's a bigger fool who wants that tulip, people start selling their stock as fast as it can, and the market crashes. However, since the original investment was of resources into a valuable endeavor, the tulip industry crashed down to higher than it was when the mania began. I believe similar things have happened recently with bitcoin, and have happened in the example of the .com bubble in the 90's. 
+7) Carl Sagan defended the revelations under Marijuana
+	Carl Sagan argued that the revelations under Marijuana are valid revelations, but the reason they're so hard to hear and believe is because you're not the same person when sober as your were when high. I imagine his tape recordings to himself went something like "Listen to me, you sober sonofabitch! What I'm saying is right and you know it!"
+8) The problems farmers are facing today are almost entirely due to growing a monoculture.
+	For the same optimization reasons that people use the same few breeds of apple over and over, people are only growing a couple of types of potatos, a couple types of bananas, etc. Many problems with pests are due to not growing the crops in an ecosystem that supports them and instead growing the same exact crops in rows and columns with nothing else between. Many dustings of insecticides, herbicides, and fungicides could be spared for want of the potatoes being the same exact variety of potato.
+9) The Irish potato famine was largely due to growing a monoculture.
+	As evidenced from the Irish potato famine, this happened throughout history. The Irish, being too far north to effectively grow wheat, except for land that had been seized by the english, the potato was a godsend. However, they ended up growing what they deemed was the most edible potato, and when everyone was growing it, a blight came in and would wipe out entire crops in a couple days. The starvation that ensued killed one in eight people.
+10) McDonald's requires a specific breed of potato (a monoculture) to be converted into fries. 
+	Few potatoes are long enough to be made into french fries. The kinds McDonald's use are primarily the Russet Burbank, Russet Ranger, Umatilla Russet and the Shepody. This has resulted in tons of Russet Burbank monocultures grown on multiple continents. By eating and enjoying those crispy fries, we are by extension supporting monoculture. The tradeoff for the risk of blight is deliciousness.   
+
+The book also discusses the appolonian and dionysian elements of gardening as they apply to each of these crops, but I'll save that for the book. 

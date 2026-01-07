@@ -1,0 +1,15 @@
+---
+title: "Experments on Air and Radioactive Substances"
+date: 2016-01-01
+draft: false
+tags: ['book reviews', 'science']
+---
+{{<img link="https://librivox.org/experiments-and-observations-on-different-kinds-of-air-by-joseph-priestley/" src="/experiments_observations_1303.jpg">}}
+{{<img link="https://librivox.org/radioactive-substances-by-marie-curie/" src="/radioactive_substances_1012.jpg">}}
+This review is special, as it is of two great works instead of one.  The former is "Observations and Experiments on different kinds of air" by Joseph Priestly. The latter is "Radioactive Substances" by Marie Curie. Both excellent examples of science performed by masters that takes the reader into the midst of experiments that have changed what we know about  the world.
+
+For instance, during Priestly's experiments burning candles and suffocating rats in closed containers of air, he find that the air has "diminished" in it's life and fire sustaining quality. Upon considering that world-wide this would lead to a slow destruction of all life and that there was no reason to believe that apocalypse was in fact occurring, he correctly reasoned that there must be some counter-balancing reaction that replenishes the air. As he did further experiments on the depleted air he discovered that leaving a sprig of mint in the container for a couple months caused it to become breathable to rats (almost as much as common air) and that flames could once again burn in them. 
+
+Another example takes place when Marie Curie describes the types of radiation given off by radium, the new element which she had discovered and isolated and sits neatly on the bottom row, second column of Mendeleev's table; the named three types of radiation, alpha, beta and gamma and would separate when subjected to a strong magnetic field. Alpha radiation did not penetrate well and was slightly responsive to the magnetic field, Beta radiation was highly penetrative and far more responsive to the field in the opposite direction, and gamma radiation behaved similarly to Roentgen rays (originally named after Wilhelm Roentgen, the man who discovered them they are now known as X-Rays). The additional beauty of this example is that when you know Gamma rays are high energy photons and X-rays are photons of a slightly lower energy, of course the two would look similar, especially true to the person discovering it for the first time! 
+
+There is a fact of reality that is often under-appreciated: every piece of scientific dogma currently known to man had to be discovered by someone. It had to be tested by someone and the questions of 'is this true' and 'how do we find out?' are problems that someone had to solve. What these books do is put you in the mind of great scientists who have made lasting discoveries and show you their reasoning, from their perspective. Only through Marie Curie can you learn how she developed a theory of radioactivity (a term which she coined), and only through Joseph Priestly can you learn how he came to his discoveries either. 
